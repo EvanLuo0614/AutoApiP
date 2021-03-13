@@ -10,7 +10,7 @@ AutoApi系列：~~AutoApi~~、AutoApiSecret、~~AutoApiSR、AutoApiS~~、AutoApi
 * AutoApiSecret：https://github.com/wangziyingwen/AutoApiSecret
 * **错误及解决办法/续期相关知识/更新日志**：https://github.com/wangziyingwen/Autoapi-test
    * P版错误说明已更新进程序，详细请运行后看action日志报告
-* 视频教程：
+* 视频教程：挂了挂了，作者跑路了
    * B站：https://www.bilibili.com/video/BV185411n7Mq/
 
 ## 步骤 ##
